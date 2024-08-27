@@ -76,5 +76,5 @@ At Pankh AI, we are constantly evolving. Our team is dedicated to researching an
 
 ---
 
-🎯 **Ready to Transform Your Business?** Explore Pankh AI today and see how we can help you harness the power of AI and cloud technology to drive growth and innovation. Visit [Pankh AI](https://pankh.ai) or reach out to us at contact@pankhai.com.
+🎯 **Ready to Transform Your Business?** Explore Pankh AI today and see how we can help you harness the power of AI and cloud technology to drive growth and innovation. Visit [Pankh AI](https://pankh.ai) or reach out to us at contact@pankh.ai.
 
