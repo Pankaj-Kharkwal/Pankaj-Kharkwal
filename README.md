@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m **Pankaj Kharkwal**. I’ve been working with technology for over 8 years, building software and leading teams.
+Hi, I’m **Pankaj Kharkwal**. I’ve been working with technology for over 9+ years, building software, architecture design and leading teams.
 
 I started as a software engineer and over time moved into roles where I design big systems and guide teams on how to build them. I’ve worked at companies like Microsoft and Citrix, and now I lead technology at a Microsoft Partner company.
 
